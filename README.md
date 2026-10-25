@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong><a href="https://yourwebsite.com">Website</a></strong> |
-  <strong><a href="https://github.com">totodoro_v2</a></strong> |
+  <strong><a href="https://totodoro.com">totodoro_v2</a></strong> |
   <strong><a href="https://linkedin.com/in/yourhandle">LinkedIn</a></strong> |
   <strong><a href="mailto:your_email@example.com">Email</a></strong> 
 </p>
